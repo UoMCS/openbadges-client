@@ -1,0 +1,21 @@
+{
+  "name": "uomcs/openbadges-client",
+  "description": "Open Badges Client",
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://packages.zendframework.com/"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/UoMCS/openbadges-client"
+    }
+  ],
+  "autoload": {
+    "psr-4": { "OpenBadges\\": "src/" }
+  },
+  "license": "MIT",
+  "require": {
+    "zendframework/zend-http": "2.*"
+  }
+}
