@@ -1,2 +1,3 @@
-# openbadges-client
-Client for accessing Open Badges backend
+# Open Badges Client
+
+Client for accessing Open Badges backend.
